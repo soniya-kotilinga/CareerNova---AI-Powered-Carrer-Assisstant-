@@ -1,4 +1,4 @@
-# CareerNova – AI-Powered Career Helper
+# CareerNova – AI-Powered Career Assistant
 
 ![careerNova](public/careerNova-readme.png)
 
